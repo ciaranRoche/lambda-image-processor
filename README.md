@@ -1,6 +1,8 @@
 # Greyscale
 Proof of concept application for automating image processing and content delivery to static html using AWS Lambda
 
+![Overview](./img/arch.png)
+
 ## Install
 Note the ARN for every resource created.
 
